@@ -21,7 +21,7 @@ Vous pouvez utiliser ces données et le code fourni dans le notebook pour effect
 
 ## Auteur
 
-Ce dépôt a été créé par Marouan Daghmoumi. N'hésitez pas à le contacter pour toute question ou suggestion.
+Ce dépôt a été créé par Marouan Daghmoumi.
 
 ## Licence
 
